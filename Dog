@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ダルメシアン</title>
+</head>
+<body>
+    <h1>ダルメシアン</h1>
+    <p>傾向等の本犬。他の写真もぜひご覧ください。</p>
+    <p><a href="https://unsplash.com/@webcreatorbox" target="_blank">他の写真</a></p>
+    <img src="images/dog.jpg" alt="ダルメシアンの写真">
+</body>
+</html>
